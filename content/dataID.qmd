@@ -1,0 +1,11 @@
+---
+title: Data Identification
+---
+
+Identify existing datasets to be included (add summary, links, visuals):
+
+## Humpback Data
+Identify existing humpback detection data sets to be included.
+
+## Environmental Data
+Identify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output.

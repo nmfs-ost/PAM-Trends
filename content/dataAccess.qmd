@@ -1,0 +1,10 @@
+---
+title: Data Access
+---
+
+Access and Aggregate Detection Data to PACM/MAKARA
+
+Pull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed.
+
+Consider a GANTT chart, Milestones, and provide links to tutorials, etc here.
+

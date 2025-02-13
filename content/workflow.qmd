@@ -1,0 +1,9 @@
+---
+title: Workflow
+---
+
+Develop and Refine Workflow
+Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki).
+
+Consider adding a workflow chart (and update as needed), identify/define/link environmental data to be used
+As output are developed, create a list with image and basic description plus link to functions. 

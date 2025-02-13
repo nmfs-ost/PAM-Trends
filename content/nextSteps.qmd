@@ -1,0 +1,8 @@
+---
+title: Next Steps
+---
+
+Aspirational Next Steps
+Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available.
+
+perhaps include a list of aspirational next steps and update it as needed. Consider providing a means for people to suggest ideas. 

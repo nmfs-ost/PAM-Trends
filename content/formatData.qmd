@@ -1,0 +1,9 @@
+---
+title: Format Data
+---
+
+Format Data for PACM/MAKARA
+Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. Deadline
+
+Consider adding a GANTT Chart with steps and progress. Develop a few milestones?
+How should this be presented?

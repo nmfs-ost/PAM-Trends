@@ -1,0 +1,8 @@
+---
+title: New Data
+---
+
+Identify Additional Data
+Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions.
+
+Consider adding a chart with new data to consider (data name, description, link). Possibly add info on how other people can submit a recommendation (perhaps by an issue or sending an email??)

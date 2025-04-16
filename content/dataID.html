@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data Identification – NOAA quarto simple</title>
+<title>Data Identification and Access – NOAA quarto simple</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -171,7 +171,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#humpback-data" id="toc-humpback-data" class="nav-link active" data-scroll-target="#humpback-data">Humpback Data</a></li>
+  <li><a href="#humpback-data" id="toc-humpback-data" class="nav-link active" data-scroll-target="#humpback-data">Humpback Data</a>
+  <ul class="collapse">
+  <li><a href="#goal-one" id="toc-goal-one" class="nav-link" data-scroll-target="#goal-one">Goal One</a></li>
+  <li><a href="#goal-two" id="toc-goal-two" class="nav-link" data-scroll-target="#goal-two">Goal Two</a></li>
+  <li><a href="#access-and-aggregate-detection-data-to-pacmmakara" id="toc-access-and-aggregate-detection-data-to-pacmmakara" class="nav-link" data-scroll-target="#access-and-aggregate-detection-data-to-pacmmakara">Access and Aggregate Detection Data to PACM/MAKARA</a></li>
+  </ul></li>
   <li><a href="#environmental-data" id="toc-environmental-data" class="nav-link" data-scroll-target="#environmental-data">Environmental Data</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/nmfs-ost/PAM_template_lab_manual/edit/main/content/dataID.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_template_lab_manual/blob/main/content/dataID.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_template_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -181,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data Identification</h1>
+<h1 class="title">Data Identification and Access</h1>
 </div>
 
 
@@ -198,14 +203,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Identify existing datasets to be included (add summary, links, visuals):</p>
+<p>Identify existing datasets to be included:</p>
 <section id="humpback-data" class="level2">
 <h2 class="anchored" data-anchor-id="humpback-data">Humpback Data</h2>
-<p>Identify existing humpback detection data sets to be included.</p>
+<section id="goal-one" class="level3">
+<h3 class="anchored" data-anchor-id="goal-one">Goal One</h3>
+<p>For the first goal, we are exploring trends using 2004-2014 East Coast US detection data (described in Davis et al.&nbsp;2020, Global Change Biology) and additional NEFSC acoustic data from the East Coast US from 2015 onwards. (https://onlinelibrary.wiley.com/cms/asset/4fcead0b-4e88-4ce2-9c94-482ad8c976e2/gcb15191-fig-0001-m.jpg)</p>
+</section>
+<section id="goal-two" class="level3">
+<h3 class="anchored" data-anchor-id="goal-two">Goal Two</h3>
+<p>The second goal involves integrating <a href="https://docs.google.com/spreadsheets/u/0/d/128jZhAl3YAP3QF2Ww7e04CSRxMch5IIFebsX2NqFFpU/edit">data from across FMCs</a>, including from the Bering Sea, Arctic, Gulf of Alaska, Cook Inlet, Pacific Islands, CA/OR/WA Coast, Salish Sea, US east coast, National Marine Sanctuaries, American Samoa, US Virgin Islands, US West Coast (from AFSC, PIFSC, NWFSC, NEFSC, NRS, and ONMS).</p>
+</section>
+<section id="access-and-aggregate-detection-data-to-pacmmakara" class="level3">
+<h3 class="anchored" data-anchor-id="access-and-aggregate-detection-data-to-pacmmakara">Access and Aggregate Detection Data to PACM/MAKARA</h3>
+<p>Pull humpback detection data from PACM in standardized format aggregated at daily scale.</p>
+<p><a href="https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/PAM_priority_projects/PAM-Cloud-PACM.html">MAKARA Database &amp; National PACM Decision Support Tool</a></p>
+</section>
 </section>
 <section id="environmental-data" class="level2">
 <h2 class="anchored" data-anchor-id="environmental-data">Environmental Data</h2>
-<p>Identify environmental data (i.e.&nbsp;parameters, spatio-temporal range, source) to integrate with daily PACM output.</p>
+<p><a href="https://coastwatch.noaa.gov/cwn/index.html">NOAA Coastwatch</a> has a number of useful resources, including lectures about how satellite data works and how to download it from ERDDAP.</p>
+<p>We are using the <a href="https://github.com/TaikiSan21/PAMscapes">PAMscapes</a> function ‘matchEnvData’ to download data from ERDDAP to match up with acoustic daily presence data. This function also allows for exploration of which datasets on ERDDAP match the temporal and spatial scales of your acoustic detections data.</p>
 
 
 </section>

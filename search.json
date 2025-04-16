@@ -120,9 +120,9 @@
   {
     "objectID": "content/dataID.html",
     "href": "content/dataID.html",
-    "title": "Data Identification",
+    "title": "Data Identification and Access",
     "section": "",
-    "text": "Identify existing datasets to be included (add summary, links, visuals):",
+    "text": "Identify existing datasets to be included:",
     "crumbs": [
       "Data ID"
     ]
@@ -130,9 +130,9 @@
   {
     "objectID": "content/dataID.html#humpback-data",
     "href": "content/dataID.html#humpback-data",
-    "title": "Data Identification",
+    "title": "Data Identification and Access",
     "section": "Humpback Data",
-    "text": "Humpback Data\nIdentify existing humpback detection data sets to be included.",
+    "text": "Humpback Data\n\nGoal One\nFor the first goal, we are exploring trends using 2004-2014 East Coast US detection data (described in Davis et al. 2020, Global Change Biology) and additional NEFSC acoustic data from the East Coast US from 2015 onwards. (https://onlinelibrary.wiley.com/cms/asset/4fcead0b-4e88-4ce2-9c94-482ad8c976e2/gcb15191-fig-0001-m.jpg)\n\n\nGoal Two\nThe second goal involves integrating data from across FMCs, including from the Bering Sea, Arctic, Gulf of Alaska, Cook Inlet, Pacific Islands, CA/OR/WA Coast, Salish Sea, US east coast, National Marine Sanctuaries, American Samoa, US Virgin Islands, US West Coast (from AFSC, PIFSC, NWFSC, NEFSC, NRS, and ONMS).\n\n\nAccess and Aggregate Detection Data to PACM/MAKARA\nPull humpback detection data from PACM in standardized format aggregated at daily scale.\nMAKARA Database & National PACM Decision Support Tool",
     "crumbs": [
       "Data ID"
     ]
@@ -140,9 +140,9 @@
   {
     "objectID": "content/dataID.html#environmental-data",
     "href": "content/dataID.html#environmental-data",
-    "title": "Data Identification",
+    "title": "Data Identification and Access",
     "section": "Environmental Data",
-    "text": "Environmental Data\nIdentify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output.",
+    "text": "Environmental Data\nNOAA Coastwatch has a number of useful resources, including lectures about how satellite data works and how to download it from ERDDAP.\nWe are using the PAMscapes function ‘matchEnvData’ to download data from ERDDAP to match up with acoustic daily presence data. This function also allows for exploration of which datasets on ERDDAP match the temporal and spatial scales of your acoustic detections data.",
     "crumbs": [
       "Data ID"
     ]

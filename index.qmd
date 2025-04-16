@@ -8,13 +8,15 @@ page-layout: full
 
 Integration of PAM and environmental data to develop new tools that can be applied to all regions and species of interest for ecological applications and investigating trends across large spatial and temporal scales.
 
+![](/content/images/namerica.cf.gif) ![](/content/images/humpback_whale.png){width=20%} ![](/content/images/PAMmooredbuoy.png)
+
 ## Summary
 
 We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to environmental variables and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the environmental data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest.
 
 The first goal of this project is to compare humpback whale occurrence trends along the US East Coast. 
 
-The second goal will be to identify and create tools to access and apply relevant environmental data on the humpback whale dataset.
+The second goal will be to identify and create tools to access and apply relevant environmental data to the humpback whale dataset.
 
 The third goal will be to integrate data nationwide. All regions will submit and format their humpback detection data into the Passive Acoustic Cetacean Map (PACM)/Makara database.
 
@@ -23,16 +25,4 @@ This workflow will allow for a national comparison of one species to be able to 
 
 ## Action Items
 
-[Data Identification: Species and Environmental Variables](https://nmfs-ost.github.io/PAM-Trends/content/dataID.html)
-
-[Format Data to PACM/MAKARA](https://nmfs-ost.github.io/PAM-Trends/content/formatData.html)
-
-[Access & Aggregate Data on PACM/MAKARA](https://nmfs-ost.github.io/PAM-Trends/content/dataAccess.html)
-
-[Develop and Refine Workflow](https://nmfs-ost.github.io/PAM-Trends/content/workflow.html)
-
-[Identify Additional Data](https://nmfs-ost.github.io/PAM-Trends/content/newData.html)
-
-[Develop Output Products](https://nmfs-ost.github.io/PAM-Trends/content/dataProducts.html)
-
-[Aspirational Next Steps](https://nmfs-ost.github.io/PAM-Trends/content/nextSteps.html)
+[Data Identification and Access: Species and Environmental Variables](https://nmfs-ost.github.io/PAM-Trends/content/dataID.html)

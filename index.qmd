@@ -8,7 +8,7 @@ page-layout: full
 
 Integration of PAM and environmental data to develop new tools that can be applied to all regions and species of interest for ecological applications and investigating trends across large spatial and temporal scales.
 
-![](/content/images/namerica.cf.gif) ![](/content/images/humpback_whale.png){width=20%} ![](/content/images/PAMmooredbuoy.png)
+![](/content/images/humpback_whale.png) ![](/content/images/namerica.cf.gif){width = 20%}  ![](/content/images/PAMmooredbuoy.png)
 
 ## Summary
 

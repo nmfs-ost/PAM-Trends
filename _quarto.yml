@@ -4,10 +4,10 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM_template_lab_manual/" 
-  repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
+  site-url: "https://nmfs-ost.github.io/PAM-Trends/" 
+  repo-url: "https://github.com/nmfs-ost/PAM-Trends"
   repo-actions: [edit, source, issue]
-  favicon: images/favicon.ico
+  favicon: /content/images/favicon.ico
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -21,10 +21,10 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
+        href: https://nmfs-ost.github.io/PAM-Trends/
         text: "PAM-Trends Website"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
+        href: https://github.com/nmfs-ost/PAM-Trends
         text: "PAM-Trends Github"
 
     style: "docked"

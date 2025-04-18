@@ -8,27 +8,33 @@ page-layout: full
 
 Integration of PAM and environmental data to develop new tools that can be applied to all regions and species of interest for ecological applications and investigating trends across large spatial and temporal scales.
 
-:::::::::::::: {.columns}
-::: {.column width="20%"}
-
-![](/content/images/humpback_whale.png)
-
-:::
-::: {.column width="60%"}
 
 ![](/content/images/namerica.cf.gif)
 
-:::
-::: {.column width="20%"}
+## Summary
 
-![](/content/images/PAMmooredbuoy.png)
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to environmental variables and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the environmental data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest.
+
+:::
+::: {.column width="30%"} 
+
+![](/content/images/humpback_whale.2.png)
 
 :::
 ::::::::::::::
 
-## Summary
 
-We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to environmental variables and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the environmental data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest.
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+
+![](/content/images/PAMmooredbuoy.png){width=84%}
+
+:::
+::: {.column width="88%"} 
 
 The first goal of this project is to compare humpback whale occurrence trends along the US East Coast. 
 
@@ -38,6 +44,9 @@ The third goal will be to integrate data nationwide. All regions will submit and
 
 This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental data streams can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.
 
+
+:::
+::::::::::::::
 
 ## Action Items
 

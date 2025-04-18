@@ -8,8 +8,19 @@ page-layout: full
 
 Integration of PAM and environmental data to develop new tools that can be applied to all regions and species of interest for ecological applications and investigating trends across large spatial and temporal scales.
 
+:::::::::::::: {.columns}
+::: {.column width="15%"}
 
-![](/content/images/namerica.cf.gif)
+:::
+::: {.column width="70%"} 
+
+![](/content/images/namerica2.cf.gif)
+
+:::
+::: {.column width="15%"} 
+
+:::
+::::::::::::::
 
 ## Summary
 

@@ -35,18 +35,7 @@ website:
         text: Home
       - href: content/dataID.qmd
         text: "Data ID"
-      - href: content/formatData.qmd
-        text: Data Format
-      - href: content/dataAccess.qmd
-        text: Data Access
-      - href: content/workflow.qmd
-        text: Workflow
-      - href: content/newData.qmd
-        text: New Data
-      - href: content/dataProducts.qmd
-        text: Data Products
-      - href: content/nextSteps.qmd
-        text: Next Steps
+
 
 
 

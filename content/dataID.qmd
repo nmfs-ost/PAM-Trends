@@ -16,7 +16,7 @@ For the first goal, we are exploring trends using 2004-2014 East Coast US detect
 :::
 ::: {.column width="30%"} 
 
-![](https://onlinelibrary.wiley.com/cms/asset/4fcead0b-4e88-4ce2-9c94-482ad8c976e2/gcb15191-fig-0001-m.jpg){width="30%"}
+![](https://onlinelibrary.wiley.com/cms/asset/4fcead0b-4e88-4ce2-9c94-482ad8c976e2/gcb15191-fig-0001-m.jpg)
 
 :::
 ::::::::::::::

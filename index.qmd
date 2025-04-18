@@ -8,20 +8,6 @@ page-layout: full
 
 Integration of PAM and environmental data to develop new tools that can be applied to all regions and species of interest for ecological applications and investigating trends across large spatial and temporal scales.
 
-:::::::::::::: {.columns}
-::: {.column width="15%"}
-
-:::
-::: {.column width="70%"} 
-
-![](/content/images/namerica2.cf.gif)
-
-:::
-::: {.column width="15%"} 
-
-:::
-::::::::::::::
-
 ## Summary
 
 
@@ -55,6 +41,19 @@ The third goal will be to integrate data nationwide. All regions will submit and
 
 This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental data streams can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.
 
+:::
+::::::::::::::
+
+:::::::::::::: {.columns}
+::: {.column width="15%"}
+
+:::
+::: {.column width="70%"} 
+
+![](/content/images/namerica2.cf.gif)
+
+:::
+::: {.column width="15%"} 
 
 :::
 ::::::::::::::

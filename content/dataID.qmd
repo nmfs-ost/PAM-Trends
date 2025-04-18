@@ -8,8 +8,9 @@ Identify existing datasets to be included:
 
 ### Goal One
 
-For the first goal, we are exploring trends using 2004-2014 East Coast US detection data (described in Davis et al. 2020, Global Change Biology) and additional NEFSC acoustic data from the East Coast US from 2015 onwards.
-(https://onlinelibrary.wiley.com/cms/asset/4fcead0b-4e88-4ce2-9c94-482ad8c976e2/gcb15191-fig-0001-m.jpg)
+For the first goal, we are exploring trends using 2004-2014 East Coast US detection data (described in [Davis et al. 2020, Global Change Biology](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15191)) and additional NEFSC acoustic data from the East Coast US from 2015 onwards.
+
+![](https://onlinelibrary.wiley.com/cms/asset/4fcead0b-4e88-4ce2-9c94-482ad8c976e2/gcb15191-fig-0001-m.jpg)
 
 ### Goal Two
 

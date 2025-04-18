@@ -4,20 +4,14 @@
     "href": "content/formatData.html",
     "title": "Format Data",
     "section": "",
-    "text": "Format Data for PACM/MAKARA Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. Deadline\nConsider adding a GANTT Chart with steps and progress. Develop a few milestones? How should this be presented?",
-    "crumbs": [
-      "Data Format"
-    ]
+    "text": "Format Data for PACM/MAKARA Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. Deadline\nConsider adding a GANTT Chart with steps and progress. Develop a few milestones? How should this be presented?"
   },
   {
     "objectID": "content/newData.html",
     "href": "content/newData.html",
     "title": "New Data",
     "section": "",
-    "text": "Identify Additional Data Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions.\nConsider adding a chart with new data to consider (data name, description, link). Possibly add info on how other people can submit a recommendation (perhaps by an issue or sending an email??)",
-    "crumbs": [
-      "New Data"
-    ]
+    "text": "Identify Additional Data Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions.\nConsider adding a chart with new data to consider (data name, description, link). Possibly add info on how other people can submit a recommendation (perhaps by an issue or sending an email??)"
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/Intro.html",
@@ -152,10 +146,7 @@
     "href": "content/nextSteps.html",
     "title": "Next Steps",
     "section": "",
-    "text": "Aspirational Next Steps Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available.\nperhaps include a list of aspirational next steps and update it as needed. Consider providing a means for people to suggest ideas.",
-    "crumbs": [
-      "Next Steps"
-    ]
+    "text": "Aspirational Next Steps Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available.\nperhaps include a list of aspirational next steps and update it as needed. Consider providing a means for people to suggest ideas."
   },
   {
     "objectID": "index.html",
@@ -202,20 +193,14 @@
     "href": "content/dataProducts.html",
     "title": "Data Products",
     "section": "",
-    "text": "Identify and draft collaborative questions, papers, products to compare across FMC’s and regions.\nWrite a summary and provide any updates and links, possibly include a way for people to submit an idea. Maybe a GANTT Chart?",
-    "crumbs": [
-      "Data Products"
-    ]
+    "text": "Identify and draft collaborative questions, papers, products to compare across FMC’s and regions.\nWrite a summary and provide any updates and links, possibly include a way for people to submit an idea. Maybe a GANTT Chart?"
   },
   {
     "objectID": "content/dataAccess.html",
     "href": "content/dataAccess.html",
     "title": "Data Access",
     "section": "",
-    "text": "Access and Aggregate Detection Data to PACM/MAKARA\nPull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed.\nConsider a GANTT chart, Milestones, and provide links to tutorials, etc here.",
-    "crumbs": [
-      "Data Access"
-    ]
+    "text": "Access and Aggregate Detection Data to PACM/MAKARA\nPull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed.\nConsider a GANTT chart, Milestones, and provide links to tutorials, etc here."
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/rendering.html",
@@ -327,9 +312,6 @@
     "href": "content/workflow.html",
     "title": "Workflow",
     "section": "",
-    "text": "Develop and Refine Workflow Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki).\nConsider adding a workflow chart (and update as needed), identify/define/link environmental data to be used As output are developed, create a list with image and basic description plus link to functions.",
-    "crumbs": [
-      "Workflow"
-    ]
+    "text": "Develop and Refine Workflow Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki).\nConsider adding a workflow chart (and update as needed), identify/define/link environmental data to be used As output are developed, create a list with image and basic description plus link to functions."
   }
 ]

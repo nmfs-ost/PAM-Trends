@@ -3,7 +3,8 @@ title: "PAM-Trends"
 subtitle: "Long-Term Trends and Environmental Variables"
 page-layout: full
 ---
-This project is a part of NOAA Fisheries [PAM SI coordination](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/SI_Coordination.html)
+
+*This project is a part of NOAA Fisheries [PAM SI coordination](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/SI_Coordination.html)*
 
 ## Goal and Target Outcome
 
